@@ -1,0 +1,6 @@
+framework module OchornmaCocoaLesson {
+  umbrella header "OchornmaCocoaLesson-umbrella.h"
+
+  export *
+  module * { export * }
+}

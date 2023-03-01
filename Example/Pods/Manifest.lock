@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.4)
+  - OchornmaCocoaLesson (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - Alamofire
+  - OchornmaCocoaLesson (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  OchornmaCocoaLesson:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  OchornmaCocoaLesson: a6e1618c0246e9aa1cddc7fad4b8e4c1e48e837c
+
+PODFILE CHECKSUM: b5a25ea05f81bb365dce14c9e333bc2ad54c9c73
+
+COCOAPODS: 1.12.0

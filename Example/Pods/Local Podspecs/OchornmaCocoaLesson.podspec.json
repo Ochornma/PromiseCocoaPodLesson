@@ -1,0 +1,30 @@
+{
+  "name": "OchornmaCocoaLesson",
+  "version": "0.1.0",
+  "summary": "A test of my library creation.",
+  "description": "A test of my library creation.",
+  "homepage": "https://github.com/Promise Ochornma/OchornmaCocoaLesson",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Promise Ochornma": "promise@investbamboo.com"
+  },
+  "source": {
+    "git": "https://github.com/Promise Ochornma/OchornmaCocoaLesson.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "OchornmaCocoaLesson/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

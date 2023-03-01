@@ -1,0 +1,6 @@
+framework module Pods_OchornmaCocoaLesson_Tests {
+  umbrella header "Pods-OchornmaCocoaLesson_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
