@@ -19,12 +19,12 @@ Pod::Spec.new do |s|
 
   s.description      = 'A test of my library creation description string.'
 
-  s.homepage         = 'https://github.com/Promise Ochornma/OchornmaCocoaLesson'
+  s.homepage         = 'https://github.com/Ochornma/PromiseCocoaPodLesson'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Promise Ochornma' => 'ochornmapromise@gmail.com' }
-  s.source           = { :git => 'https://github.com/Promise Ochornma/OchornmaCocoaLesson.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/Ochornma/PromiseCocoaPodLesson.git', :tag => s.version.to_s }
+   s.social_media_url = 'https://twitter.com/PromiseOchornma'
 
   s.ios.deployment_target = '10.0'
   s.swift_versions = '5.0'
